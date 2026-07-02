@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -48,4 +50,8 @@
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0520-detect-capital) |
+## Hash Table
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
