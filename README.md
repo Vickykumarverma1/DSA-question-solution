@@ -59,6 +59,7 @@
 | [0152-maximum-product-subarray](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0152-maximum-product-subarray) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0875-koko-eating-bananas) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Binary Search
 |  |
@@ -100,4 +101,5 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0152-maximum-product-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 <!---LeetCode Topics End-->
