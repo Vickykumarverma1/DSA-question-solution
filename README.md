@@ -56,6 +56,7 @@
 | [0011-container-with-most-water](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0152-maximum-product-subarray) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0875-koko-eating-bananas) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -98,4 +99,5 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
