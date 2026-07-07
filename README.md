@@ -102,15 +102,25 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0152-maximum-product-subarray) |
+| [1025-divisor-game](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/1025-divisor-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Math
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/1025-divisor-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/2769-find-the-maximum-achievable-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
