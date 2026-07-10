@@ -57,6 +57,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0152-maximum-product-subarray) |
+| [0560-subarray-sum-equals-k](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0888-fair-candy-swap) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0560-subarray-sum-equals-k](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0888-fair-candy-swap](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0888-fair-candy-swap) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Enumeration
@@ -141,4 +143,8 @@
 |  |
 | ------- |
 | [0888-fair-candy-swap](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0888-fair-candy-swap) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
