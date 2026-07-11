@@ -58,6 +58,7 @@
 | [0053-maximum-subarray](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0152-maximum-product-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0888-fair-candy-swap) |
@@ -147,4 +148,5 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
