@@ -55,12 +55,22 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0713-subarray-product-less-than-k](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0713-subarray-product-less-than-k) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0713-subarray-product-less-than-k](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0713-subarray-product-less-than-k) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0004-median-of-two-sorted-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
