@@ -56,6 +56,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0136-single-number](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0136-single-number) |
+| [0219-contains-duplicate-ii](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0713-subarray-product-less-than-k) |
 ## Binary Search
 |  |
@@ -70,6 +71,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
@@ -92,4 +94,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Vickykumarverma1/DSA-question-solution/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
